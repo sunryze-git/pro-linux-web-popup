@@ -6,7 +6,7 @@ to add this to your webpage, simply put this in the `<head>` tag of your html:
 
 ```css
 <!-- Pro-Linux Popup -->
-<script async src="https://sleepie.dev/anti-apple-alert.js"></script>
+<script async src="https://raw.githubusercontent.com/sunryze-git/pro-linux-web-popup/refs/heads/main/pro-linux-popup.js"></script>
 ```
 
 the script (should) automatically check the user agent for signs that the user is on a linux device, and if they are, show a popup.
